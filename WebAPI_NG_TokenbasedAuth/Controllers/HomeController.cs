@@ -14,5 +14,12 @@ namespace WebAPI_NG_TokenbasedAuth.Controllers
 
             return View();
         }
+
+        public ActionResult FileUpload()
+        {
+            ViewBag.Title = "Home Page";
+
+            return View();
+        }
     }
 }

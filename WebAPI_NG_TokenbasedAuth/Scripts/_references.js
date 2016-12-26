@@ -20,3 +20,4 @@
 /// <reference path="angular.min.js" />
 /// <reference path="bootstrap.min.js" />
 /// <reference path="../app/module.js" />
+/// <reference path="../app/uploadmodule.js" />
